@@ -1,0 +1,7 @@
+#Variables de entorno confidenciales para conexión a la base de datos
+.env
+
+
+#Módulos de nodeJS
+
+node_modules/
